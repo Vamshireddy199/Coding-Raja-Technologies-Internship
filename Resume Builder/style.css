@@ -1,0 +1,16 @@
+.myimg{
+  
+  border-radius: 50%;
+  width: 200px;
+}
+
+.background{
+  background-color: aquamarine;
+}
+#cv-form{
+  /*display: none;*/
+}
+
+#cv-template{
+ /*display: none;*/
+}
